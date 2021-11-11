@@ -4,12 +4,22 @@ A library of books that every software engineer/developer should be aware of.
 
 Inspried by [tweet series](https://twitter.com/gokhanadev/status/1457625406836822016?s=20)
 
+## For Kids
+Name | Author(s)
+:-- | :--:
+[Scratch 2.0 Programming](https://www.amazon.com/Scratch-2-0-Programming-Denis-Golikov-ebook/dp/B00TP5IG8E) | Denis Golikov
+[Hello World! Third Edition](https://www.amazon.com/Hello-World-Third-Programming-Beginners-ebook/dp/B0977ZX7FD/) | Warren Sande, Carter Sande
+[Coding For Kids For Dummies](https://www.amazon.com/Coding-Kids-Dummies-Camille-McCue-ebook/dp/B07QJ81954) | Camille McCue
+[Python for Kids: A Playful Introduction To Programming](https://www.amazon.com/Python-Kids-Playful-Introduction-Programming-ebook/dp/B00ADX21Z6) | Jason R. Briggs
 
 ## For Beginners | Mid-levels
 Name | Author(s)
 :-- | :--:
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest ve Clifford Stein
+[The Art of Computer Programming Series](https://www.goodreads.com/book/show/363999.The_Art_of_Computer_Programming) | Donald Ervin Knuth
+[Learn to Program]() | Chris Pine
 [Clean Code: A Handbook of Agile Software Craftmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert Martin
+[The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | Charles Petzold
 [The Missing README: A Guide for the New Software Engineer](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838) | Chris Riccomini (Author), Dmitriy Ryaboy 
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)| Richard Helm, Erich Gamma Ralph Johnson, John Vlissides, and Grady Booch
@@ -22,7 +32,7 @@ Name | Author(s)
 
 Name | Author(s)
 :-- | :--:
-[The Software Craftsman: Professionalism, Pragmatism, Pride] (https://www.oreilly.com/library/view/the-software-craftsman/9780134052625/) | 
+[The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.oreilly.com/library/view/the-software-craftsman/9780134052625/) | Sandro Mancuso
 
 
 ## Software Architecture
@@ -69,5 +79,5 @@ Name | Author(s)
 32. The Society of Mind
 33. The Mythical Man.Month
 34. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
-35. Modern Operating Systems 4th Edition
+35. Modern Operating Systems 4th Edition
 36. The Art of Unit Testing
