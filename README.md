@@ -1,5 +1,5 @@
 
-# The Software Engineer Developer's Library
+# The Software Engineer/Developer's Library
 
 A library of books that every software engineer/developer should be aware of.
 
@@ -96,8 +96,8 @@ Name | Author(s)
 [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/) | Andrew Tanenbaum, Herbert Bos
 [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) |  Alex Petrov 
 [Systems Performance](https://www.amazon.com/Systems-Performance-Brendan-Gregg-ebook/dp/B08J5QZPNC) | Brendan Gregg 
-[Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366/ref=sr_1_1?crid=99ETNAIF4VSJ&keywords=operating+system+concepts&qid=1636720438&sprefix=operating+system%2Caps%2C301&sr=8-1) | Abraham Silberschatz, Greg Gagne, Peter B. Galvin
-[Database System Concepts](https://www.amazon.com/Database-System-Concepts-Abraham-Silberschatz/dp/1260084507/ref=sr_1_1?crid=2GB3GPIXJKKS6&keywords=database+system+concepts&qid=1636720550&s=books&sprefix=database+system+concepts+%2Cstripbooks-intl-ship%2C291&sr=1-1) | Abraham Silberschatz, Henry Korth, S. Sudarshan
+[Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366) | Abraham Silberschatz, Greg Gagne, Peter B. Galvin
+[Database System Concepts](https://www.amazon.com/Database-System-Concepts-Abraham-Silberschatz/dp/1260084507) | Abraham Silberschatz, Henry Korth, S. Sudarshan
 
 ## Don't Miss
 Name | Author(s)
