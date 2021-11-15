@@ -67,6 +67,8 @@ Name | Author(s)
 [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) |  Brendan Burns 
 [Software Architect's Handbook](https://www.amazon.com/Software-Architects-Handbook-implementing-architecture/dp/1788624068) |  Joseph Ingeno 
 [Microservices Patterns: With examples in Java](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543) | Chris Richardson
+[Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.amazon.com/gp/product/1638778868/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0) | Gergely Orosz
+
 
 ## The Art of Software Testing
 Name | Author(s)
