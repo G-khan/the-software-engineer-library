@@ -100,6 +100,8 @@ Name | Author(s)
 [Systems Performance](https://www.amazon.com/Systems-Performance-Brendan-Gregg-ebook/dp/B08J5QZPNC) | Brendan Gregg 
 [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366) | Abraham Silberschatz, Greg Gagne, Peter B. Galvin
 [Database System Concepts](https://www.amazon.com/Database-System-Concepts-Abraham-Silberschatz/dp/1260084507) | Abraham Silberschatz, Henry Korth, S. Sudarshan
+[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) | Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+
 
 ## Don't Miss
 Name | Author(s)
