@@ -5,16 +5,35 @@ A library of books that every software engineer/developer should be aware of.
 
 Inspried by [tweet series](https://twitter.com/gokhanadev/status/1457625406836822016?s=20)
 
+### Software Engineering Books
+* [For Kids](#for-kids)
+* [For Beginners and Juniors](#for-beginners-and-juniors)
+* [LEVEL UP](#level-up)
+* [Software Craftmanship](#software-craftmanship)
+* [Software Architecture](#software-architecture)
+* [The Art of Software Testing](#the-art-of-software-testing)
+* [Devops](#devops)
+* [Computer Science](#computer-science)
+* [Don't Miss](#dont-miss)
+
+### Programming Languages Books
+* [C](#c)
+* [Java](#java)
+* [Kotlin](#kotlin)
+* [C#](#c-1)
+* [Go](#go)
+* [Python](#python)
+
 ## For Kids
 Name | Author(s)
 :-- | :--:
 [Scratch 2.0 Programming](https://www.amazon.com/Scratch-2-0-Programming-Denis-Golikov-ebook/dp/B00TP5IG8E) | Denis Golikov
-[Hello World! Third Edition](https://www.amazon.com/Hello-World-Third-Programming-Beginners-ebook/dp/B0977ZX7FD/) | Warren Sande, Carter Sande
+[Hello World! Third Edition: Computer Programming for Kids and Other Beginners](https://www.amazon.com/Hello-World-Third-Programming-Beginners-ebook/dp/B0977ZX7FD/) | Warren Sande, Carter Sande
 [Coding For Kids For Dummies](https://www.amazon.com/Coding-Kids-Dummies-Camille-McCue-ebook/dp/B07QJ81954) | Camille McCue
 [Python for Kids: A Playful Introduction To Programming](https://www.amazon.com/Python-Kids-Playful-Introduction-Programming-ebook/dp/B00ADX21Z6) | Jason R. Briggs
 [JavaScript for Kids: A Playful Introduction to Programming](https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming-ebook/dp/B00QL616QE) | Nick Morgan
 
-## For Beginners and  Juniors
+## For Beginners and Juniors
 Name | Author(s)
 :-- | :--:
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest ve Clifford Stein
@@ -41,7 +60,6 @@ Name | Author(s)
 [Unit Testing Principles, Practices, and Patterns](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279/) |  Vladimir Khorikov 
 
 ## Software Craftmanship
-
 Name | Author(s)
 :-- | :--:
 [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.oreilly.com/library/view/the-software-craftsman/9780134052625/) | Sandro Mancuso
@@ -58,7 +76,7 @@ Name | Author(s)
 ## Software Architecture
 Name | Author(s)
 :-- | :--:
-[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/) |  Robert Martin
+[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/) |  Robert Martin
 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) |   Eric Evans 
 [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) |  Robert Martin
 [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894) | Adam Bellemare 
@@ -106,9 +124,45 @@ Name | Author(s)
 ## Don't Miss
 Name | Author(s)
 :-- | :--:
-[Androids: The Team That Built the Android Operating System](https://www.amazon.com/Androids-Built-Android-Operating-System-ebook/dp/B09C6RYHQ4) | Chet Haase
+[Androids: The Team That Built the Android Operating System](https://www.amazon.com/Androids-Built-Android-Operating-System-ebook/dp/B09QPMNWS5) | Chet Haase
 [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2) | Tom DeMarco, Timothy Lister
 [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-ebook/dp/B004R9QACC) | Gerald Weinberg
 [The Society of Mind](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/B000EOO6C0) |  Marvin Minsky 
+
+---
+
+# Programming Language Books
+
+## C
+Name | Author(s)
+:-- | :--:
+[C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) | Brian Kernighan, Dennis Ritchie
+
+## Java
+Name | Author(s)
+:-- | :--:
+[Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) | Joshua Bloch
+[Modern Java in Action: Lambdas, streams, functional and reactive programming](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563) | Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
+
+## Kotlin
+Name | Author(s)
+:-- | :--:
+[Kotlin Cookbook: A Problem-Focused Approach](https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen-ebook/dp/B081HYY9BS) | Ken Kousen 
+
+## C#
+Name | Author(s)
+:-- | :--:
+[C# 10 and .NET 6 – Modern Cross-Platform Development](https://www.amazon.com/10-NET-Cross-Platform-Development-websites/dp/1801077363) | Mark J. Price
+
+## Go
+Name | Author(s)
+:-- | :--:
+[Go Programming Language](https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen-ebook/dp/B081HYY9BS) | Alan Donovan, Brian Kernighan
+
+## Python
+Name | Author(s)
+:-- | :--:
+[Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) | Eric Matthes
+
 
 ### For new books or any suggestion, just create an issue.
