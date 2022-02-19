@@ -157,7 +157,7 @@ Name | Author(s)
 ## Go
 Name | Author(s)
 :-- | :--:
-[Go Programming Language](https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen-ebook/dp/B081HYY9BS) | Alan Donovan, Brian Kernighan
+[Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) | Alan Donovan, Brian Kernighan
 
 ## Python
 Name | Author(s)
