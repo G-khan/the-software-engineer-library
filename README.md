@@ -23,6 +23,7 @@ Inspried by [tweet series](https://twitter.com/gokhanadev/status/145762540683682
 * [C#](#c-1)
 * [Go](#go)
 * [Python](#python)
+* [Swift](#swift)
 
 ## For Kids
 Name | Author(s)
@@ -46,7 +47,7 @@ Name | Author(s)
 [Head First Learn to Code: A Learner's Guide to Coding and Computational Thinking](https://www.amazon.com/Head-First-Learn-Code-Computational/dp/1491958863) | Eric Freeman
 [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678) | Brett McLaughlin, Gary Pollice, Dave West
 
-## LEVEL UP 	
+## LEVEL UP     
 Name | Author(s)
 :-- | :--:
 [Clean Code: A Handbook of Agile Software Craftmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert Martin
@@ -164,5 +165,11 @@ Name | Author(s)
 :-- | :--:
 [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) | Eric Matthes
 
+## Swift
+Name | Author(s)
+:-- | :--:
+[Swift UI](https://www.amazon.com/SwiftUI-Tutorials-First-Declarative-Development/dp/1942878834/ref=sr_1_15?crid=3UHXTD8CCWBOD&keywords=ray+wenderlich&qid=1645285894&s=books&sprefix=ray+wenderlic%2Cstripbooks-intl-ship%2C216&sr=1-15)  | Ray Wenderlich Tutorial Team
+[Swift for Good](https://www.swiftforgood.com) | Antoine van der Lee, Paul Hudson, John Sundell and more
+[Swift in Depth](https://www.amazon.com/Swift-Depth-Tjeerd-t-Veen/dp/1617295183/ref=sr_1_1?keywords=swift+in+depth&qid=1645285957&s=books&sprefix=swift+in+dep%2Cstripbooks-intl-ship%2C229&sr=1-1) | Tjeerd in 't Veen
 
 ### For new books or any suggestion, just create an issue.
