@@ -159,6 +159,7 @@ Name | Author(s)
 Name | Author(s)
 :-- | :--:
 [Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) | Alan Donovan, Brian Kernighan
+[Head First Go](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555) | Jay McGavren
 
 ## Python
 Name | Author(s)
