@@ -59,6 +59,7 @@ Name | Author(s)
 [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | Bhargava Aditya 
 [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Java-Programmer-Should/dp/1491952695) | Kevlin Henney 
 [Unit Testing Principles, Practices, and Patterns](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279/) |  Vladimir Khorikov 
+[Facts and Fallacies of Software Engineering](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/) |  Robert Glass
 
 ## Software Craftmanship
 Name | Author(s)
