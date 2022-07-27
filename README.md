@@ -170,9 +170,9 @@ Name | Author(s)
 ## Swift
 Name | Author(s)
 :-- | :--:
-[Swift UI](https://www.amazon.com/SwiftUI-Tutorials-First-Declarative-Development/dp/1942878834/ref=sr_1_15?crid=3UHXTD8CCWBOD&keywords=ray+wenderlich&qid=1645285894&s=books&sprefix=ray+wenderlic%2Cstripbooks-intl-ship%2C216&sr=1-15)  | Ray Wenderlich Tutorial Team
+[Swift UI](https://www.amazon.com/SwiftUI-Tutorials-First-Declarative-Development/dp/1942878834)  | Ray Wenderlich Tutorial Team
 [Swift for Good](https://www.swiftforgood.com) | Antoine van der Lee, Paul Hudson, John Sundell and more
-[Swift in Depth](https://www.amazon.com/Swift-Depth-Tjeerd-t-Veen/dp/1617295183/ref=sr_1_1?keywords=swift+in+depth&qid=1645285957&s=books&sprefix=swift+in+dep%2Cstripbooks-intl-ship%2C229&sr=1-1) | Tjeerd in 't Veen
+[Swift in Depth](https://www.amazon.com/Swift-Depth-Tjeerd-t-Veen/dp/1617295183) | Tjeerd in 't Veen
 
 ## Turkish Books
 Name | Author(s)
