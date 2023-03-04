@@ -74,6 +74,7 @@ Name | Author(s)
 [The Practice of Programming](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B00HU50A12) | Brian Kernighan, Rob Pike
 [Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software](https://www.amazon.com/Beyond-Legacy-Code-Practices-Software/dp/1680500791) |  David Scott Bernstein 
 [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293) |  Dustin Boswell, Trevor Foucher
+[Street Coder: The rules to break and how to break them](https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379/) |  Sedat Kapanoglu
  
 ## Software Architecture
 Name | Author(s)
@@ -139,12 +140,15 @@ Name | Author(s)
 Name | Author(s)
 :-- | :--:
 [C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) | Brian Kernighan, Dennis Ritchie
+[C How to Program](https://www.amazon.com/How-Program-8th-Paul-Deitel/dp/0133976890) | Harey Deitel
+
 
 ## Java
 Name | Author(s)
 :-- | :--:
 [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) | Joshua Bloch
 [Modern Java in Action: Lambdas, streams, functional and reactive programming](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563) | Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
+[Introduction to Java Programming and Data Structures, Comprehensive Version](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0134670949) | Y. Daniel Liang
 
 ## Kotlin
 Name | Author(s)
