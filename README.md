@@ -3,7 +3,7 @@
 
 A library of books that every software engineer/developer should be aware of.
 
-Inspried by [tweet series](https://twitter.com/gokhanadev/status/1457625406836822016?s=20)
+Inspired by [tweet series](https://twitter.com/gokhanadev/status/1457625406836822016?s=20)
 
 ### Software Engineering Books
 * [For Kids](#for-kids)
